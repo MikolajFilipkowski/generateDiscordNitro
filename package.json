@@ -1,0 +1,12 @@
+{
+  "name": "generatediscordnitro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --no-warnings .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mikolaj Filipkowski",
+  "license": "ISC"
+}
